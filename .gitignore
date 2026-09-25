@@ -28,3 +28,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+### Lab 2 ###
+.idea/
+*.iml
+*.zip
